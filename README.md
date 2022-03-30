@@ -7,4 +7,4 @@ Terraforming k8s cluster using kubeadm
 
 # References
 
-- [ ] [Create a self-managed cluster using Kubeadm and Terraform](https://faun.pub/create-a-self-managed-cluster-using-kubeadm-and-terraform-a148f00f440f]
+- [ ] [Create a self-managed cluster using Kubeadm and Terraform](https://faun.pub/create-a-self-managed-cluster-using-kubeadm-and-terraform-a148f00f440f)
